@@ -1,5 +1,5 @@
 const key = "1152954574234b7bb0a52510242102";
-const base = "http://api.weatherapi.com/v1";
+const base = "https://api.weatherapi.com/v1";
 
 
 
